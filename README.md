@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sai Rohit, as you might've already caught from my GH link, this readme title, the huge text below my profile and from wherenot. ofc its obv, cause I'm famous, I'm one with the system. My brain thinks in 1s and 0s and life is nothing but a huge voltage filled circuit.
-(I cannot make this any more cheesier, I'm cringing myself out.)
+I'm Sai Rohit.
+(He/Him)
+Hate and love JS at the same time.
+Currently working on web components designed in individual dev envs.
+I'm looking out for internships and jobs.
 
-21st century norms require the mentioning of pronouns, so mine would be (If I'm not wrong) He/Him.
-(The previous cliams about my super powers seem much better than this now, don't they?)
-
-I'm currently working on website components as individual page dev environments.
-JavaScript is my enemy, and my lover. for the wonders in my dreams can be done by thy, I need to tame the dragon i.e my mind.
-It's an impossible task. no cap.
+You can find my digital footprint in the following:
+https://linktr.ee/sairohitp
