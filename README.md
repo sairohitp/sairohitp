@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sai Rohit.
-(He/Him)
-Hate and love JS at the same time.
-Currently working on web components designed in individual dev envs.
-I'm looking out for internships and jobs.
-
-You can find my digital footprint in the following:
+I'm Sai Rohit.<br/>
+(He/Him)<br/>
+Hate and love JS at the same time.<br/>
+Currently working on web components designed in individual dev envs.<br/>
+I'm looking out for internships and jobs.<br/>
+<br/>
+You can find my digital footprint in the following:<br/>
 https://linktr.ee/sairohitp
