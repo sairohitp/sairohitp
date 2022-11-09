@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I'm Sai Rohit – (He/Him)<br/>
-Hate and love JS at the same time.<br/>
 Currently working on web components designed in individual dev envs.<br/>
 I'm looking out for internships and jobs.<br/>
 <br/>
