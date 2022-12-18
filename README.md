@@ -25,8 +25,8 @@ https://linktr.ee/sairohitp
 ### GitHub Stats:
 
 <p align="center">
-  <img align="center" alt = "Contribution Statistics" src="https://github-readme-stats.vercel.app/api?username=sairohitp&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width = 50%>
-  <img align="center" alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairohitp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width = 50%>
+  <img align="center" alt = "Contribution Statistics" src="https://github-readme-stats.vercel.app/api?username=sairohitp&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
+  <img align="center" alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairohitp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sairohitp&theme=dracula&hide_border=false)<br/> -->
