@@ -23,7 +23,7 @@ You can find my digital footprint in the following:<br/>
 https://linktr.ee/sairohitp
 
 ### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=Dracula)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)
 
 ### GitHub Stats:
 
