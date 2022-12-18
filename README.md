@@ -22,14 +22,11 @@ I'm looking out for internships and jobs.<br/>
 You can find my digital footprint in the following:<br/>
 https://linktr.ee/sairohitp
 
-### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)
-
 ### GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sairohitp&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sairohitp&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sairohitp&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sairohitp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&width=50%)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sairohitp&theme=dracula&hide_border=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sairohitp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&width=50%)
 
 
 <!-- ### GitHub Trophies
