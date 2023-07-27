@@ -25,7 +25,6 @@ You can find my digital footprint in the following:<br/>
 https://linktr.ee/sairohitp
 
 -->
-
 ### GitHub Stats:
 
 <p align="center">
