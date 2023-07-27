@@ -19,8 +19,8 @@ I'm Sai Rohit – (He/Him)<br/>
 Currently working on web components designed in individual dev envs.<br/>
 I'm looking out for internships and jobs.<br/>
 <br/>
-You can find my digital footprint in the following:<br/>
-https://linktr.ee/sairohitp
+<!--You can find my digital footprint in the following:<br/>
+https://linktr.ee/sairohitp-->
 
 ### GitHub Stats:
 
