@@ -1,22 +1,20 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **sairohitp/sairohitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
 I'm Sai Rohit – (He/Him)<br/>
-Currently working on web components designed in individual dev envs.<br/>
+
+- 🔭 I’m currently working on fullstack & UI/UX projects
+- 🌱 I’m currently learning backend development
+- 👯 I’m looking to collaborate on providing web services for clients
+- 📫 Connect with me on linkedin at: www.linkedin.com/in/sairohitp
+- 😄 Pronouns: He/Him
+
+"Simple Hustle"
+
 I'm looking out for internships and jobs.<br/>
 <br/>
 <!--
