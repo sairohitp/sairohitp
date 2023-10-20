@@ -12,7 +12,6 @@ CSE undergrad at SRMISTKTR, UIUX Intern at TrainingMug, Creatives Lead at GDSCSR
 - 🔭 I’m currently working on fullstack & UI/UX projects
 - 🌱 I’m currently learning backend development
 - 👯 I’m looking to collaborate on providing web services for clients
-- 📫 Connect with me on linkedin at: www.linkedin.com/in/sairohitp
 - 😄 Pronouns: He/Him
 
 "Simply Hustle"
