@@ -45,5 +45,14 @@ https://linktr.ee/sairohitp
 <!-- ### Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sairohitp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sairohitp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sairohitp) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sairohitp007) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saerohitp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/alphabeatslyrics)  -->
 
+### Connect with me:
+
+[WEBSITE]: https://sairohit.com
+[LINKEDIN]: https://www.linkedin.com/in/sairohitp/
+[TWITTER]: https://twitter.com/saerohit
+[INSTAGRAM]: https://www.instagram.com/sairohitp/
+[FACEBOOK]: https://www.facebook.com/saerohitp/
+[EMAIL]: mailto:sairohitp007@gmail.com
+
 ### Donate @
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sairohitp) 
