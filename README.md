@@ -50,7 +50,7 @@ Website: https://sairohit.com<br/>
 LinkedIn: https://www.linkedin.com/in/sairohitp/<br/>
 Twitter: https://twitter.com/saerohit<br/>
 Instagram: https://www.instagram.com/sairohitp/<br/>
-Facebook: https://www.facebook.com/saerohitp/<br/>
+Facebook: https://www.facebook.com/sairohitp/<br/>
 Email: mailto:sairohitp007@gmail.com<br/>
 
 ### Donate @
