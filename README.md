@@ -46,12 +46,12 @@ https://linktr.ee/sairohitp
 
 ### Connect with me:
 
-WEBSITE: https://sairohit.com<br/>
-LINKEDIN: https://www.linkedin.com/in/sairohitp/<br/>
-TWITTER: https://twitter.com/saerohit<br/>
-INSTAGRAM: https://www.instagram.com/sairohitp/<br/>
-FACEBOOK: https://www.facebook.com/saerohitp/<br/>
-EMAIL: mailto:sairohitp007@gmail.com<br/>
+Website: https://sairohit.com<br/>
+LinkedIn: https://www.linkedin.com/in/sairohitp/<br/>
+Twitter: https://twitter.com/saerohit<br/>
+Instagram: https://www.instagram.com/sairohitp/<br/>
+Facebook: https://www.facebook.com/saerohitp/<br/>
+Email: mailto:sairohitp007@gmail.com<br/>
 
 ### Donate @
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sairohitp) 
