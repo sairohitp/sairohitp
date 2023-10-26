@@ -35,8 +35,6 @@ https://linktr.ee/sairohitp
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sairohitp&theme=dracula&hide_border=false)<br/> -->
 
-
-
 <!-- ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sairohitp&theme=algolia&no-frame=false&no-bg=false&margin-w=4) -->
 
