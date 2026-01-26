@@ -1,23 +1,4 @@
-### Hello 👋
-
-<!--
-**sairohitp/sairohitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-I'm Sai Rohit – (He/Him)<br/>
-
-CSE undergrad at SRMISTKTR, UIUX Intern at TrainingMug, Creatives Lead at GDSCSRM, Operations Lead at TEDxSRMIST
-
-- 🔭 I’m currently working on fullstack & UI/UX projects
-- 🌱 I’m currently learning backend development
-- 👯 I’m looking to collaborate on providing web services for clients
-- 😄 Pronouns: He/Him
-
-"Simply Hustle"
-
-I'm looking out for internships and jobs.<br/>
-<br/>
+### Bonjour
 <!--
 
 You can find my digital footprint in the following:<br/>
