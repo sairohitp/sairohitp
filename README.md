@@ -1,4 +1,4 @@
-<h1 align="center">Sai Rohit</h1>
+<h2 align="center">Sai Rohit</h2>
 
 <p align="center">
   Software engineer and product designer.<br/>
